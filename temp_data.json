@@ -1,0 +1,37 @@
+[
+	{
+		"id": 105,
+		"temperature": "57",
+		"humidity": "65",
+		"location": "35.56,45.98",
+		"timeStamp": "Apr 7, 2022, 3:31:00 PM"
+	},
+	{
+		"id": 105,
+		"temperature": "14",
+		"humidity": "61",
+		"location": "35.56,45.98",
+		"timeStamp": "Apr 7, 2022, 3:32:00 PM"
+	},
+	{
+		"id": 105,
+		"temperature": "-11",
+		"humidity": "71",
+		"location": "35.56,45.98",
+		"timeStamp": "Apr 7, 2022, 3:33:00 PM"
+	},
+	{
+		"id": 105,
+		"temperature": "16",
+		"humidity": "86",
+		"location": "35.56,45.98",
+		"timeStamp": "Apr 7, 2022, 3:34:00 PM"
+	},
+	{
+		"id": 105,
+		"temperature": "110",
+		"humidity": "68",
+		"location": "35.56,45.98",
+		"timeStamp": "Apr 7, 2022, 3:35:00 PM"
+	}
+]
